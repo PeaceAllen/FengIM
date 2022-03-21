@@ -1,0 +1,15 @@
+{
+  "name": "fengimserver",
+  "version": "1.0.0",
+  "description": "IM Server by Feng based on NodeJs/Koa/SocketIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Feng",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "socket.io": "^4.4.1"
+  }
+}
