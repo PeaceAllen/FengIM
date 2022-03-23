@@ -1,2 +1,2 @@
 # FengIM
-a simple IM app
+an IM app demo
